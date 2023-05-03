@@ -41,7 +41,7 @@ Exemplo: se você estiver clonando um repositório local em uma pasta chamada "m
 - `sudo yum install git -y` instalar git
 - `git --version` verificar se foi instalado
 - `git clone (link github)` clonar repositório
-- Usei o meu repositório de exemplo: https://github.com/aliciasouzan/desenvolvimento-de-software-em-nuvem.git
+- Usei o meu repositório de exemplo: 
 ### Iniciar a máquina
 - Navegue até o diretório onde está o index.js
 - `git clone https://github.com/aliciasouzan/desenvolvimento-de-software-em-nuvem.git`
@@ -55,10 +55,10 @@ Exemplo: se você estiver clonando um repositório local em uma pasta chamada "m
 
 ## Teste (Exemplos)
 - Selecione o PublicIP e acrescente a porta criada. O IP usado no exemplo pode mudar.
-	- 52.91.213.231:3000
+	- IP:3000
 - Para acessar as três portas acrescente a rota
-	- 52.91.213.231:3000/rota1
-	- 52.91.213.231:3000/rota2
-	- 52.91.213.231:3000/rota3
+	- IP:3000/rota1
+	- IP:3000/rota2
+	- IP:3000/rota3
 
 - Desligue a máquina após finalizar
